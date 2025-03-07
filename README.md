@@ -28,4 +28,5 @@ project and errors may be present.
 # References
 
 * [Mathwork – *abc to dq0, dq0 to abc*](https://fr.mathworks.com/help/sps/powersys/ref/abctodq0dq0toabc.html)
-* [Wikipedia – Direct-quadrature-zero transformation](https://en.wikipedia.org/wiki/Direct-quadrature-zero_transformation)
+* [Wikipedia – *Direct-quadrature-zero transformation*](https://en.wikipedia.org/wiki/Direct-quadrature-zero_transformation)
+* [MIT Libraries – *A Geometric Interpretation of Reference Frames and Transformations: dq0, Clarke, and Park*](https://dspace.mit.edu/bitstream/handle/1721.1/123557/Final_Submission__Open_Access.pdf?sequence=1&isAllowed=y)
