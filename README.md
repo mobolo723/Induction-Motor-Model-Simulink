@@ -2,10 +2,11 @@
 
 # Description
 
-This repository is a model of a three-phase induction motor made during a
+This repository is a model of a three-phase induction motor made during a student
 project using MatLab and Simulink. The goal of this model is to perform
-Park's transform and control motor's speed. As said, this is a student
-project and errors may be present.
+Park's transform and control motor's speed while learning the basics of Simulink. 
+
+As said, this is a student project and errors may be present. Feel free to correct or enhance the project.
 
 # Glossary
 
@@ -30,3 +31,4 @@ project and errors may be present.
 * [Mathwork – *abc to dq0, dq0 to abc*](https://fr.mathworks.com/help/sps/powersys/ref/abctodq0dq0toabc.html)
 * [Wikipedia – *Direct-quadrature-zero transformation*](https://en.wikipedia.org/wiki/Direct-quadrature-zero_transformation)
 * [MIT Libraries – *A Geometric Interpretation of Reference Frames and Transformations: dq0, Clarke, and Park*](https://dspace.mit.edu/bitstream/handle/1721.1/123557/Final_Submission__Open_Access.pdf?sequence=1&isAllowed=y)
+* [Sandeep Kaler, Youtube – *abc-dq Transformation*](https://www.youtube.com/watch?v=VpXiSUVzVas)
